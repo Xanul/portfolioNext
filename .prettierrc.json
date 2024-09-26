@@ -1,0 +1,7 @@
+{
+  "printWidth": 80,
+  "jsxBracketSameLine": true,
+  "proseWrap": "preserve",
+  "tabWidth": 2,
+  "plugins": ["prettier-plugin-tailwindcss", "prettier-plugin-classnames"]
+}
